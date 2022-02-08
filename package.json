@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:farnaz-kakhsaz/typescript.git",
+  "author": "Farnaz Kakhsaz <farnaz.kakhsaz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  }
+}
